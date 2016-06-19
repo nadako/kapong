@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "command": "d:/code/node510/node",
+    "command": "node",
     "args": ["kha/make", "html5"],
     "problemMatcher": {
         "owner": "haxe",
